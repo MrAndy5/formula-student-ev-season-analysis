@@ -1,0 +1,119 @@
+session_id,source_file,source_dir,schema_id,row_count,duration_s,is_valid_run,is_duplicate,venue,discipline,driver,date
+ISC_20260719_012504_prueba_canto,ISC_20260719_012504_prueba_canto.csv,datos2526,schema_0,617,230.33,True,False,Cantoblanco,Static/Bench,Unknown,2026-07-19
+ISC_20260719_160015_marta_19_7_run_1_canto,ISC_20260719_160015_marta_19_7_run_1_canto.csv,datos2526,schema_0,657,1691.08,True,False,Cantoblanco,Testing,Marta,2026-07-19
+ISC_20260719_164039_sandra_19_7_run_1_canto,ISC_20260719_164039_sandra_19_7_run_1_canto.csv,datos2526,schema_0,206,290.81,True,False,Cantoblanco,Testing,Sandra,2026-07-19
+ISC_20260719_165514_sandra_19_7_run_2_canto,ISC_20260719_165514_sandra_19_7_run_2_canto.csv,datos2526,schema_0,575,424.93,True,False,Cantoblanco,Testing,Sandra,2026-07-19
+ISC_20260719_173627_marta_19_7_run_2_canto,ISC_20260719_173627_marta_19_7_run_2_canto.csv,datos2526,schema_0,904,330.39,True,False,Cantoblanco,Testing,Marta,2026-07-19
+ISC_20260719_181210_marta_19_7_run_3_canto,ISC_20260719_181210_marta_19_7_run_3_canto.csv,datos2526,schema_0,775,222.0,True,False,Cantoblanco,Testing,Marta,2026-07-19
+ISC_20260719_182141_marta_canto (1),ISC_20260719_182141_marta_canto (1).csv,datos2526,schema_0,585,187.28,True,False,Cantoblanco,Testing,Marta,2026-07-19
+ISC_20260720_201930_Piloto_Test_Circuito_Test,ISC_20260720_201930_Piloto_Test_Circuito_Test.csv,datos2526,schema_1,934,223.72,True,False,Cantoblanco,Testing,Test/Sim,2026-07-20
+ISC_20260720_223912_Marta_test_1_Cantoblanco_20_07,ISC_20260720_223912_Marta_test_1_Cantoblanco_20_07.csv,datos2526,schema_1,112,39.82,True,False,Cantoblanco,Testing,Marta,2026-07-20
+ISC_20260720_224030_Marta_test_1_Cantoblanco_20_07,ISC_20260720_224030_Marta_test_1_Cantoblanco_20_07.csv,datos2526,schema_1,663,703.79,True,False,Cantoblanco,Testing,Marta,2026-07-20
+ISC_20260720_225725_Marta_test_2_Cantoblanco_20_07,ISC_20260720_225725_Marta_test_2_Cantoblanco_20_07.csv,datos2526,schema_1,407,334.99,True,False,Cantoblanco,Testing,Marta,2026-07-20
+ISC_20260720_231158_Andres_test_1_Cantoblanco_20_07,ISC_20260720_231158_Andres_test_1_Cantoblanco_20_07.csv,datos2526,schema_1,475,142.53,True,False,Cantoblanco,Testing,Andrés,2026-07-20
+ISC_20260720_231432_Andres_test_1_Cantoblanco_20_07,ISC_20260720_231432_Andres_test_1_Cantoblanco_20_07.csv,datos2526,schema_1,838,367.96,True,False,Cantoblanco,Testing,Andrés,2026-07-20
+ISC_20260720_232121_Andres_test_2_Cantoblanco_20_07,ISC_20260720_232121_Andres_test_2_Cantoblanco_20_07.csv,datos2526,schema_1,664,281.55,True,False,Cantoblanco,Testing,Andrés,2026-07-20
+ISC_20260721_174418_MARTA3_CANTO (1),ISC_20260721_174418_MARTA3_CANTO (1).csv,datos2526,schema_1,493,185.79,True,True,Cantoblanco,Testing,Marta,2026-07-21
+ISC_20260721_174418_MARTA3_CANTO,ISC_20260721_174418_MARTA3_CANTO.csv,datos2526,schema_1,493,185.79,True,False,Cantoblanco,Testing,Marta,2026-07-21
+ISC_20260721_175056_DIDI1_CANTO,ISC_20260721_175056_DIDI1_CANTO.csv,datos2526,schema_1,2462,630.55,True,False,Cantoblanco,Testing,Didi,2026-07-21
+ISC_20260721_194514_Piloto_Test_Circuito_Test,ISC_20260721_194514_Piloto_Test_Circuito_Test.csv,datos2526,schema_1,0,0.0,False,False,Cantoblanco,Testing,Test/Sim,2026-07-21
+ISC_20260729_155733_marta_brk_dynamics,ISC_20260729_155733_marta_brk_dynamics.csv,datos2526,schema_2,185,38.7,True,False,Cantoblanco,Brake Dyn,Marta,2026-07-29
+ISC_20260729_161852_marta_brk_dynamics(1),ISC_20260729_161852_marta_brk_dynamics(1).csv,datos2526,schema_2,36,11.0,True,False,Cantoblanco,Brake Dyn,Marta,2026-07-29
+ISC_20260729_175919_Andres_Autocross_Austria,ISC_20260729_175919_Andres_Autocross_Austria.csv,datos2526,schema_2,133,106.6,True,False,Austria,Autocross,Andrés,2026-07-29
+ISC_20260730_091925_andres_dieguez_1_austria_endurance_2026_1 (2),ISC_20260730_091925_andres_dieguez_1_austria_endurance_2026_1 (2).csv,datos2526,schema_2,254,404.8,True,False,Austria,Endurance,Andrés,2026-07-30
+ISC_20260730_092010_andres_dieguez_2_austria_endurance_2026_2 (1),ISC_20260730_092010_andres_dieguez_2_austria_endurance_2026_2 (1).csv,datos2526,schema_2,170,262.56,True,False,Austria,Endurance,Andrés,2026-07-30
+ISC_20260730_093052_andres_dieguez_1_austria_endurance_2026_1,ISC_20260730_093052_andres_dieguez_1_austria_endurance_2026_1.csv,datos2526,schema_2,20,3.8,True,False,Austria,Endurance,Andrés,2026-07-30
+ISC_20260730_093146_test_austria_endurance_2026_1,ISC_20260730_093146_test_austria_endurance_2026_1.csv,datos2526,schema_2,38,7.34,True,False,Austria,Endurance,Unknown,2026-07-30
+ISC_20260730_102421_andres_practice_area_1,ISC_20260730_102421_andres_practice_area_1.csv,datos2526,schema_2,32,48.15,True,False,Cantoblanco,Testing,Andrés,2026-07-30
+ISC_20260730_MERGED_austria_endurance_2026_full,ISC_20260730_MERGED_austria_endurance_2026_full.csv,datos2526,schema_3,338,493.4,True,False,Austria,Endurance,Unknown,2026-07-30
+ISC_20260804_131049_landa_brk_barcelona,ISC_20260804_131049_landa_brk_barcelona.csv,datos2526,schema_4,0,0.0,False,False,Barcelona,Brake Dyn,Landa,2026-08-04
+ISC_20260804_131223_landa_brk_1_barcelona,ISC_20260804_131223_landa_brk_1_barcelona.csv,datos2526,schema_4,154,76.61,True,False,Barcelona,Brake Dyn,Landa,2026-08-04
+ISC_20260804_162149_landa_practice1_BAR,ISC_20260804_162149_landa_practice1_BAR.csv,datos2526,schema_4,5,17.0,True,False,Barcelona,Testing,Landa,2026-08-04
+ISC_20260805_093215_Andres_Practice_bcn_skid,ISC_20260805_093215_Andres_Practice_bcn_skid.csv,datos2526,schema_4,118,63.43,True,False,Barcelona,Skidpad,Andrés,2026-08-05
+ISC_20260805_113947_Andres_skidpad_bcn_1,ISC_20260805_113947_Andres_skidpad_bcn_1.csv,datos2526,schema_4,27,48.8,True,False,Barcelona,Skidpad,Andrés,2026-08-05
+ISC_20260805_114338_Andres_skidpad_bcn_2,ISC_20260805_114338_Andres_skidpad_bcn_2.csv,datos2526,schema_4,42,135.82,True,False,Barcelona,Skidpad,Andrés,2026-08-05
+ISC_20260805_153435_Marta_test1_bcn,ISC_20260805_153435_Marta_test1_bcn.csv,datos2526,schema_4,214,274.39,True,False,Barcelona,Testing,Marta,2026-08-05
+ISC_20260805_164731_landa_practice_bcn,ISC_20260805_164731_landa_practice_bcn.csv,datos2526,schema_4,743,393.79,True,False,Barcelona,Testing,Landa,2026-08-05
+ISC_20260805_182532_marta_accel_bcn,ISC_20260805_182532_marta_accel_bcn.csv,datos2526,schema_4,953,284.97,True,False,Barcelona,Acceleration,Marta,2026-08-05
+ISC_20260805_191320_prueba_box,ISC_20260805_191320_prueba_box.csv,datos2526,schema_4,0,0.0,False,False,Barcelona,Static/Bench,Unknown,2026-08-05
+ISC_20260805_191342_prueba_box,ISC_20260805_191342_prueba_box.csv,datos2526,schema_4,259,51.77,True,False,Barcelona,Static/Bench,Unknown,2026-08-05
+ISC_20260805_193430_inv1_test,ISC_20260805_193430_inv1_test.csv,datos2526,schema_4,297,59.99,True,False,Barcelona,Static/Bench,Unknown,2026-08-05
+ISC_20260805_222202_LANDA_ACC1,ISC_20260805_222202_LANDA_ACC1.csv,datos2526,schema_4,0,0.0,False,False,Barcelona,Acceleration,Landa,2026-08-05
+ISC_20260805_222258_LANDA_ACC1,ISC_20260805_222258_LANDA_ACC1.csv,datos2526,schema_4,0,0.0,False,False,Barcelona,Acceleration,Landa,2026-08-05
+ISC_20260805_223643_landa_montmelo_acceleration_final_recta,ISC_20260805_223643_landa_montmelo_acceleration_final_recta.csv,datos2526,schema_4,0,0.0,False,False,Barcelona,Acceleration,Landa,2026-08-05
+ISC_20260805_224552_LANDA_ACC1,ISC_20260805_224552_LANDA_ACC1.csv,datos2526,schema_4,323,171.02,True,False,Barcelona,Acceleration,Landa,2026-08-05
+ISC_20260805_224552_MERGED_landa_montmelo_acc_full,ISC_20260805_224552_MERGED_landa_montmelo_acc_full.csv,datos2526,schema_5,356,171.0,True,False,Barcelona,Testing,Landa,2026-08-05
+ISC_20260805_224554_landa_montmelo_acceleration_final_recta,ISC_20260805_224554_landa_montmelo_acceleration_final_recta.csv,datos2526,schema_4,0,0.0,False,False,Barcelona,Acceleration,Landa,2026-08-05
+ISC_20260805_224612_landa_montmelo_acceleration_final_recta (1),ISC_20260805_224612_landa_montmelo_acceleration_final_recta (1).csv,datos2526,schema_4,42,97.39,True,False,Barcelona,Acceleration,Landa,2026-08-05
+ISC_20260806_142509_marco_montmelo_autox,ISC_20260806_142509_marco_montmelo_autox.csv,datos2526,schema_4,492,301.38,True,False,Barcelona,Autocross,Marco,2026-08-06
+ISC_20260806_172425_marco_montmelo_autox,ISC_20260806_172425_marco_montmelo_autox.csv,datos2526,schema_4,0,0.0,False,False,Barcelona,Autocross,Marco,2026-08-06
+ISC_20260806_172515_marco_montmelo_autox,ISC_20260806_172515_marco_montmelo_autox.csv,datos2526,schema_4,0,0.0,False,False,Barcelona,Autocross,Marco,2026-08-06
+ISC_20260806_172616_marco_montmelo_autox,ISC_20260806_172616_marco_montmelo_autox.csv,datos2526,schema_4,342,404.43,True,False,Barcelona,Autocross,Marco,2026-08-06
+ISC_20260807_125809_Landa_Marco_endurance,ISC_20260807_125809_Landa_Marco_endurance.csv,datos2526,schema_4,56,148.4,True,False,Barcelona,Endurance,Landa/Marco,2026-08-07
+ISC_20260919_130619_Piloto_Test_Circuito_Test,ISC_20260919_130619_Piloto_Test_Circuito_Test.csv,datos2526,schema_4,0,0.0,False,False,Cantoblanco,Testing,Test/Sim,2026-09-19
+ISC_20260919_130640_Piloto_Test_Circuito_Test,ISC_20260919_130640_Piloto_Test_Circuito_Test.csv,datos2526,schema_4,0,0.0,False,False,Cantoblanco,Testing,Test/Sim,2026-09-19
+ISC_20260919_130839_Piloto_Test_Circuito_Test,ISC_20260919_130839_Piloto_Test_Circuito_Test.csv,datos2526,schema_4,0,0.0,False,False,Cantoblanco,Testing,Test/Sim,2026-09-19
+ISC_20260919_131102_Piloto_Test_Circuito_Test,ISC_20260919_131102_Piloto_Test_Circuito_Test.csv,datos2526,schema_4,227,45.8,True,False,Cantoblanco,Testing,Test/Sim,2026-09-19
+ISC_20260920_110327_Piloto_Test_Circuito_Test,ISC_20260920_110327_Piloto_Test_Circuito_Test.csv,datos2526,schema_4,0,0.0,False,False,Cantoblanco,Testing,Test/Sim,2026-09-20
+ISC_20260920_110344_Piloto_Test_Circuito_Test,ISC_20260920_110344_Piloto_Test_Circuito_Test.csv,datos2526,schema_4,1796,369.36,True,False,Cantoblanco,Testing,Test/Sim,2026-09-20
+ISC_20260920_111624_marta_canto1,ISC_20260920_111624_marta_canto1.csv,datos2526,schema_4,1931,555.19,True,False,Cantoblanco,Testing,Marta,2026-09-20
+ISC_20260920_111653_Marta_Testing_Cantoblanco_1,ISC_20260920_111653_Marta_Testing_Cantoblanco_1.csv,datos2526,schema_4,994,334.8,True,False,Cantoblanco,Testing,Marta,2026-09-20
+ISC_20260920_112254_Marta_Testing_Cantoblanco_2,ISC_20260920_112254_Marta_Testing_Cantoblanco_2.csv,datos2526,schema_4,461,161.2,True,False,Cantoblanco,Testing,Marta,2026-09-20
+ISC_20260920_114635_andr%C3%A9s_calentamiento_canto1,ISC_20260920_114635_andr%C3%A9s_calentamiento_canto1.csv,datos2526,schema_4,1426,425.21,True,False,Cantoblanco,Warmup,Unknown,2026-09-20
+ISC_20260920_114700_Andres_Testing_Cantoblanco_1,ISC_20260920_114700_Andres_Testing_Cantoblanco_1.csv,datos2526,schema_4,918,396.8,True,False,Cantoblanco,Testing,Andrés,2026-09-20
+ISC_20260920_152844_Piloto_Test_Circuito_Test,ISC_20260920_152844_Piloto_Test_Circuito_Test.csv,datos2526,schema_4,233,48.0,True,False,Cantoblanco,Testing,Test/Sim,2026-09-20
+ISC_20260920_153221_Piloto_Test_Circuito_Test,ISC_20260920_153221_Piloto_Test_Circuito_Test.csv,datos2526,schema_4,52,10.42,True,False,Cantoblanco,Testing,Test/Sim,2026-09-20
+ISC_20260920_153953_Piloto_Test_Circuito_Test(1),ISC_20260920_153953_Piloto_Test_Circuito_Test(1).csv,datos2526,schema_4,90,18.37,True,True,Cantoblanco,Testing,Test/Sim,2026-09-20
+ISC_20260920_153953_Piloto_Test_Circuito_Test,ISC_20260920_153953_Piloto_Test_Circuito_Test.csv,datos2526,schema_4,90,18.37,True,False,Cantoblanco,Testing,Test/Sim,2026-09-20
+ISC_20260920_154101_Piloto_Test_Circuito_Test,ISC_20260920_154101_Piloto_Test_Circuito_Test.csv,datos2526,schema_4,2502,676.05,True,False,Cantoblanco,Testing,Test/Sim,2026-09-20
+ISC_20260920_154755_andres_endurance_p1_canto,ISC_20260920_154755_andres_endurance_p1_canto.csv,datos2526,schema_4,2746,656.7,True,False,Cantoblanco,Endurance,Andrés,2026-09-20
+ISC_20260920_155354_Andres_Test_Cantoblanco_Test,ISC_20260920_155354_Andres_Test_Cantoblanco_Test.csv,datos2526,schema_4,1082,300.0,True,False,Cantoblanco,Testing,Andrés,2026-09-20
+ISC_20260927_132523_marta_mobios,ISC_20260927_132523_marta_mobios.csv,datos2526,schema_4,0,0.0,False,False,Cantoblanco,Testing,Marta,2026-09-27
+ISC_20260929_105127_Andres_Jarama_1,ISC_20260929_105127_Andres_Jarama_1.csv,datos2526,schema_4,0,0.0,False,False,Jarama,Testing,Andrés,2026-09-29
+ISC_20260929_113826_Andres_Jarama_1.1 (2),ISC_20260929_113826_Andres_Jarama_1.1 (2).csv,datos2526,schema_4,465,155.4,True,False,Jarama,Testing,Andrés,2026-09-29
+ISC_DEMO_20251226_115005_MarpleTester_CircuitoVirtual,ISC_DEMO_20251226_115005_MarpleTester_CircuitoVirtual.csv,datos2526,schema_6,5920,295.95,True,False,Demo / Virtual Sim,Testing,Test/Sim,2025-12-26
+ISC_DEMO_20260708_123019_Piloto_Test_Circuito_Test,ISC_DEMO_20260708_123019_Piloto_Test_Circuito_Test.csv,datos2526,schema_7,83,8.3,True,False,Cantoblanco,Testing,Test/Sim,2026-07-08
+ISC_DEMO_20260708_123116_Marple_Insight,ISC_DEMO_20260708_123116_Marple_Insight.csv,datos2526,schema_7,6337,635.5,True,False,Cantoblanco,Testing,Test/Sim,2026-07-08
+ISC_DEMO_20260709_135110_Piloto_Test_Circuito_Test,ISC_DEMO_20260709_135110_Piloto_Test_Circuito_Test.csv,datos2526,schema_8,2983,315.95,True,False,Cantoblanco,Testing,Test/Sim,2026-07-09
+ISC_DEMO_20260721_194627_Piloto_Test_Circuito_Test,ISC_DEMO_20260721_194627_Piloto_Test_Circuito_Test.csv,datos2526,schema_9,105,10.5,True,False,Cantoblanco,Testing,Test/Sim,2026-07-21
+ISC_DEMO_20260803_092852_PrimerOn_Barcelona,ISC_DEMO_20260803_092852_PrimerOn_Barcelona.csv,datos2526,schema_9,50,4.9,True,False,Barcelona,Static/Bench,Test/Sim,2026-08-03
+LOG0074,LOG0074.CSV,AMS logs/AMS logs,schema_bms_314,69,17.0,True,False,Cantoblanco,Static/Bench,Unknown,2026-09-20
+LOG0075,LOG0075.CSV,AMS logs/AMS logs,schema_bms_314,148,36.75,True,False,Cantoblanco,Static/Bench,Unknown,2026-09-20
+LOG0077,LOG0077.CSV,AMS logs/AMS logs,schema_bms_314,652,162.75,True,False,Jarama,Testing,Andrés,2026-09-29
+LOG0078,LOG0078.CSV,AMS logs/AMS logs,schema_bms_314,88,21.75,True,False,Cantoblanco,Static/Bench,Unknown,2026-09-20
+LOG0079,LOG0079.CSV,AMS logs/AMS logs,schema_bms_314,32,7.75,True,False,Cantoblanco,Static/Bench,Unknown,2026-09-20
+LOG0080,LOG0080.CSV,AMS logs/AMS logs,schema_bms_314,1200,299.75,True,False,Cantoblanco,Static/Bench,Unknown,2026-09-20
+LOG0081,LOG0081.CSV,AMS logs/AMS logs,schema_bms_314,497,124.0,True,False,Cantoblanco,Static/Bench,Unknown,2026-09-20
+LOG0082,LOG0082.CSV,AMS logs/AMS logs,schema_bms_314,1200,299.75,True,False,Cantoblanco,Static/Bench,Unknown,2026-09-20
+LOG0083,LOG0083.CSV,AMS logs/AMS logs,schema_bms_314,266,66.25,True,False,Cantoblanco,Static/Bench,Unknown,2026-09-20
+LOG0084,LOG0084.CSV,AMS logs/AMS logs,schema_bms_314,1200,299.75,True,False,Cantoblanco,Static/Bench,Unknown,2026-09-20
+LOG0085,LOG0085.CSV,AMS logs/AMS logs,schema_bms_314,120,29.75,True,False,Cantoblanco,Static/Bench,Unknown,2026-09-20
+LOG0086,LOG0086.CSV,AMS logs/AMS logs,schema_bms_314,93,23.0,True,False,Cantoblanco,Static/Bench,Unknown,2026-09-20
+LOG0087,LOG0087.CSV,AMS logs/AMS logs,schema_bms_314,18,4.25,True,False,Cantoblanco,Static/Bench,Unknown,2026-09-20
+LOG0088,LOG0088.CSV,AMS logs/AMS logs,schema_bms_314,100,24.75,True,False,Cantoblanco,Testing,Unknown,2026-09-20
+LOG0089,LOG0089.CSV,AMS logs/AMS logs,schema_bms_314,1200,299.75,True,False,Cantoblanco,Warmup,Andrés,2026-09-20
+LOG0090,LOG0090.CSV,AMS logs/AMS logs,schema_bms_314,549,137.0,True,False,Cantoblanco,Warmup,Andrés,2026-09-20
+LOG0091,LOG0091.CSV,AMS logs/AMS logs,schema_bms_314,664,165.75,True,False,Cantoblanco,Testing,Test/Sim,2026-09-20
+LOG0092,LOG0092.CSV,AMS logs/AMS logs,schema_bms_314,190,47.5,True,False,Cantoblanco,Static/Bench,Unknown,2026-09-20
+LOG0093,LOG0093.CSV,AMS logs/AMS logs,schema_bms_314,1030,257.25,True,False,Cantoblanco,Testing,Test/Sim,2026-09-20
+LOG0094,LOG0094.CSV,AMS logs/AMS logs,schema_bms_314,24,5.75,True,False,Cantoblanco,Static/Bench,Unknown,2026-09-20
+LOG0095,LOG0095.CSV,AMS logs/AMS logs,schema_bms_314,120,29.75,True,False,Cantoblanco,Static/Bench,Unknown,2026-09-20
+LOG0096,LOG0096.CSV,AMS logs/AMS logs,schema_bms_314,98,24.25,True,False,Cantoblanco,Static/Bench,Unknown,2026-09-20
+LOG0097,LOG0097.CSV,AMS logs/AMS logs,schema_bms_314,105,26.0,True,False,Cantoblanco,Static/Bench,Unknown,2026-09-20
+LOG0098,LOG0098.CSV,AMS logs/AMS logs,schema_bms_314,593,148.0,True,False,Cantoblanco,Testing,Test/Sim,2026-09-20
+LOG0099,LOG0099.CSV,AMS logs/AMS logs,schema_bms_314,112,27.75,True,False,Cantoblanco,Static/Bench,Unknown,2026-09-20
+LOG0100,LOG0100.CSV,AMS logs/AMS logs,schema_bms_314,45,11.0,True,False,Cantoblanco,Static/Bench,Unknown,2026-09-20
+LOG0101,LOG0101.CSV,AMS logs/AMS logs,schema_bms_314,25,6.0,True,False,Cantoblanco,Static/Bench,Unknown,2026-09-20
+LOG0102,LOG0102.CSV,AMS logs/AMS logs,schema_bms_314,1200,299.75,True,False,Cantoblanco,Testing,Test/Sim,2026-09-20
+LOG0103,LOG0103.CSV,AMS logs/AMS logs,schema_bms_314,85,21.0,True,False,Cantoblanco,Static/Bench,Unknown,2026-09-20
+LOG0104,LOG0104.CSV,AMS logs/AMS logs,schema_bms_314,54,13.25,True,False,Cantoblanco,Static/Bench,Unknown,2026-09-20
+LOG0105,LOG0105.CSV,AMS logs/AMS logs,schema_bms_314,89,22.0,True,False,Cantoblanco,Static/Bench,Unknown,2026-09-20
+LOG0106,LOG0106.CSV,AMS logs/AMS logs,schema_bms_314,378,94.25,True,False,Cantoblanco,Testing,Test/Sim,2026-09-20
+IMU0074,IMU0074.CSV,AMS logs/AMS logs,schema_imu_7,1724,17.23,True,False,Cantoblanco,Static/Bench,Unknown,2026-09-20
+IMU0093,IMU0093.CSV,AMS logs/AMS logs,schema_imu_7,25765,257.64,True,False,Cantoblanco,Dynamics/IMU,Test/Sim,2026-09-20
+IMU0094,IMU0094.CSV,AMS logs/AMS logs,schema_imu_7,595,5.94,True,False,Cantoblanco,Dynamics/IMU,Unknown,2026-09-20
+IMU0097,IMU0097.CSV,AMS logs/AMS logs,schema_imu_7,2635,26.34,True,False,Cantoblanco,Dynamics/IMU,Unknown,2026-09-20
+IMU0100,IMU0100.CSV,AMS logs/AMS logs,schema_imu_7,1140,11.39,True,False,Cantoblanco,Dynamics/IMU,Unknown,2026-09-20
+IMU0101,IMU0101.CSV,AMS logs/AMS logs,schema_imu_7,620,6.19,True,False,Cantoblanco,Dynamics/IMU,Unknown,2026-09-20
+IMU0105,IMU0105.CSV,AMS logs/AMS logs,schema_imu_7,2235,22.34,True,False,Cantoblanco,Dynamics/IMU,Unknown,2026-09-20
+IMU0106,IMU0106.CSV,AMS logs/AMS logs,schema_imu_7,9445,94.44,True,False,Cantoblanco,Dynamics/IMU,Test/Sim,2026-09-20

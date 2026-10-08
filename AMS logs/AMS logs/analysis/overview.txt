@@ -1,0 +1,200 @@
+LOG0074: 69 rows 0.2-17.2s gaps>300ms=0 maxgap=250ms
+   FSM: Start@0.2 Pre@5.5 Run@6.8 Start@13.2 ERR@13.5
+   modes=[0, 1] tsms=[0, 1] dash_presses=1 mod_mask=[31] fault=NtcDisc(M1)@13.50s
+   pack 366.5-367.0V  I_filt -0.8..0.2A  I_raw -1.8..2.1A  Idcdc -39.7..-36.7A  dcbus 0-365V
+   vmin 3690-3730 vmax 4042-4044  T 20..25C  tmax_col 25
+   NTC mostly-open: ['t0_12(97%)']  transient-open rows=3: 0.50s[Start]:t0_13 | 0.75s[Start]:t0_13 | 13.50s[ERR]:t0_0,t0_20,t1_0
+   IMU: 1724 rows 0.1-17.3s gaps>20ms=0 maxgap=16ms  |a| 0.93..1.04g std=0.005  |w| max 0.09rad/s  ax[-0.01,0.02] ay[-0.05,0.01] az[0.93,1.04]
+LOG0075: 148 rows 0.2-37.0s gaps>300ms=0 maxgap=250ms
+   FSM: Start@0.2 Pre@27.2 ERR@32.2
+   modes=[0, 1] tsms=[0, 1] dash_presses=1 mod_mask=[31] fault=FsmError(0)@32.25s
+   pack 366.4-367.0V  I_filt -0.8..0.3A  I_raw -2.5..0.3A  Idcdc -39.7..-36.9A  dcbus 0-276V
+   vmin 3689-3731 vmax 4042-4044  T 19..22C  tmax_col 22
+   NTC mostly-open: ['t0_12(99%)']  transient-open rows=2: 0.50s[Start]:t0_13 | 0.75s[Start]:t0_13
+LOG0077: 652 rows 0.2-163.0s gaps>300ms=0 maxgap=250ms
+   FSM: Start@0.2 Pre@7.0 Run@8.0
+   modes=[0, 1] tsms=[0, 1] dash_presses=1 mod_mask=[31] fault=-
+   pack 299.1-366.9V  I_filt -0.8..115.5A  I_raw -5.3..173.1A  Idcdc -39.8..-36.9A  dcbus 0-365V
+   vmin 3020-3730 vmax 3296-4044  T 20..26C  tmax_col 26
+   NTC mostly-open: ['t0_12(100%)']  transient-open rows=2: 0.50s[Start]:t0_13 | 0.75s[Start]:t0_13
+LOG0078: 88 rows 0.2-22.0s gaps>300ms=0 maxgap=250ms
+   FSM: ERR@0.2
+   modes=[0] tsms=[0] dash_presses=0 mod_mask=[31] fault=-
+   pack 341.3-359.6V  I_filt -1.3..-0.2A  I_raw -2.5..1.8A  Idcdc -39.4..-37.0A  dcbus 0-112V
+   vmin 3430-3645 vmax 3722-3927  T 22..25C  tmax_col 25
+   NTC mostly-open: ['t0_12(98%)']  transient-open rows=2: 0.50s[ERR]:t0_13 | 0.75s[ERR]:t0_13
+LOG0079: 32 rows 0.2-8.0s gaps>300ms=0 maxgap=250ms
+   FSM: Start@0.2
+   modes=[0] tsms=[0] dash_presses=0 mod_mask=[31] fault=-
+   pack 359.3-362.5V  I_filt -0.8..-0.4A  I_raw -1.8..0.7A  Idcdc -39.7..-36.8A  dcbus 0-0V
+   vmin 3606-3682 vmax 3928-3962  T 23..25C  tmax_col 25
+   NTC mostly-open: ['t0_12(94%)']  transient-open rows=2: 0.50s[Start]:t0_13 | 0.75s[Start]:t0_13
+LOG0080: 1200 rows 0.2-300.0s gaps>300ms=0 maxgap=250ms
+   FSM: Start@0.2
+   modes=[0] tsms=[0] dash_presses=0 mod_mask=[31] fault=-
+   pack 362.1-362.8V  I_filt -1.1..-0.0A  I_raw -3.2..1.8A  Idcdc -39.6..-36.1A  dcbus 0-0V
+   vmin 3643-3687 vmax 3962-3977  T 22..25C  tmax_col 25
+   NTC mostly-open: ['t0_12(100%)']  transient-open rows=2: 0.50s[Start]:t0_13 | 0.75s[Start]:t0_13
+LOG0081: 497 rows 300.2-424.2s gaps>300ms=0 maxgap=250ms
+   FSM: Start@300.2
+   modes=[0] tsms=[0] dash_presses=0 mod_mask=[31] fault=-
+   pack 362.4-362.8V  I_filt -1.0..-0.1A  I_raw -3.2..1.4A  Idcdc -39.4..-38.8A  dcbus 0-0V
+   vmin 3647-3687 vmax 3976-3978  T 22..25C  tmax_col 25
+   NTC mostly-open: ['t0_12(100%)']  transient-open rows=0: 
+LOG0082: 1200 rows 0.2-300.0s gaps>300ms=0 maxgap=250ms
+   FSM: Start@0.2
+   modes=[0] tsms=[0] dash_presses=0 mod_mask=[31] fault=-
+   pack 362.5-363.1V  I_filt -1.5..-0.4A  I_raw -3.2..0.7A  Idcdc -39.7..-36.9A  dcbus 0-0V
+   vmin 3648-3689 vmax 3978-3982  T 22..24C  tmax_col 24
+   NTC mostly-open: ['t0_12(100%)']  transient-open rows=2: 0.50s[Start]:t0_13 | 0.75s[Start]:t0_13
+LOG0083: 266 rows 300.2-366.5s gaps>300ms=0 maxgap=250ms
+   FSM: Start@300.2
+   modes=[0] tsms=[0] dash_presses=0 mod_mask=[31] fault=-
+   pack 362.7-363.1V  I_filt -0.8..-0.3A  I_raw -1.4..0.7A  Idcdc -39.3..-39.0A  dcbus 0-0V
+   vmin 3649-3689 vmax 3981-3981  T 23..24C  tmax_col 24
+   NTC mostly-open: ['t0_12(100%)']  transient-open rows=0: 
+LOG0084: 1200 rows 0.2-300.0s gaps>300ms=0 maxgap=250ms
+   FSM: Start@0.2
+   modes=[0] tsms=[0] dash_presses=0 mod_mask=[31] fault=-
+   pack 362.6-363.1V  I_filt -0.9..1.8A  I_raw -3.9..2.5A  Idcdc -39.5..-36.8A  dcbus 0-0V
+   vmin 3649-3689 vmax 3981-3982  T 23..24C  tmax_col 24
+   NTC mostly-open: ['t0_12(100%)']  transient-open rows=2: 0.50s[Start]:t0_13 | 0.75s[Start]:t0_13
+LOG0085: 120 rows 0.2-30.0s gaps>300ms=0 maxgap=250ms
+   FSM: ERR@0.2
+   modes=[0] tsms=[0] dash_presses=0 mod_mask=[31] fault=-
+   pack 362.6-363.1V  I_filt -0.7..0.1A  I_raw -2.5..0.3A  Idcdc -39.1..-35.3A  dcbus 0-0V
+   vmin 3649-3689 vmax 3981-3981  T 23..24C  tmax_col 24
+   NTC mostly-open: ['t0_12(98%)']  transient-open rows=2: 0.50s[ERR]:t0_13 | 0.75s[ERR]:t0_13
+LOG0086: 93 rows 0.2-23.2s gaps>300ms=0 maxgap=250ms
+   FSM: Start@0.2 Pre@14.5 ERR@19.5
+   modes=[0, 1] tsms=[0, 1] dash_presses=1 mod_mask=[31] fault=FsmError(0)@19.50s
+   pack 361.9-363.1V  I_filt -1.1..0.1A  I_raw -1.8..1.1A  Idcdc -39.5..-37.1A  dcbus 0-273V
+   vmin 3579-3689 vmax 3980-3982  T 23..24C  tmax_col 24
+   NTC mostly-open: ['t0_12(98%)']  transient-open rows=2: 0.50s[Start]:t0_13 | 0.75s[Start]:t0_13
+LOG0087: 18 rows 0.2-4.5s gaps>300ms=0 maxgap=250ms
+   FSM: ERR@0.2
+   modes=[0] tsms=[0] dash_presses=0 mod_mask=[31] fault=-
+   pack 362.6-363.1V  I_filt -0.5..-0.1A  I_raw -2.8..2.1A  Idcdc -39.1..-36.2A  dcbus 0-0V
+   vmin 3649-3689 vmax 3981-3982  T 23..24C  tmax_col 24
+   NTC mostly-open: ['t0_12(88%)']  transient-open rows=2: 0.50s[ERR]:t0_13 | 0.75s[ERR]:t0_13
+LOG0088: 100 rows 0.2-25.0s gaps>300ms=0 maxgap=250ms
+   FSM: Start@0.2 Pre@7.5 Run@8.8 Start@13.5
+   modes=[0, 1] tsms=[0, 1] dash_presses=1 mod_mask=[31] fault=-
+   pack 362.7-363.1V  I_filt -0.9..-0.1A  I_raw -1.8..1.1A  Idcdc -39.5..-36.6A  dcbus 0-361V
+   vmin 3649-3689 vmax 3979-3982  T 23..24C  tmax_col 24
+   NTC mostly-open: ['t0_12(98%)']  transient-open rows=2: 0.50s[Start]:t0_13 | 0.75s[Start]:t0_13
+LOG0089: 1200 rows 0.2-300.0s gaps>300ms=0 maxgap=250ms
+   FSM: Start@0.2 Pre@11.5 Run@12.8
+   modes=[0, 1] tsms=[0, 1] dash_presses=1 mod_mask=[31] fault=-
+   pack 307.4-363.1V  I_filt -1.0..102.5A  I_raw -4.6..173.4A  Idcdc -39.7..-36.4A  dcbus 0-361V
+   vmin 3073-3689 vmax 3377-3982  T 22..27C  tmax_col 27
+   NTC mostly-open: ['t0_12(100%)']  transient-open rows=2: 0.50s[Start]:t0_13 | 0.75s[Start]:t0_13
+LOG0090: 549 rows 300.2-437.2s gaps>300ms=0 maxgap=250ms
+   FSM: Run@300.2 Start@431.8
+   modes=[0, 1] tsms=[0, 1] dash_presses=0 mod_mask=[31] fault=-
+   pack 302.1-351.4V  I_filt -0.4..110.8A  I_raw -1.4..164.0A  Idcdc -39.6..-38.2A  dcbus 0-349V
+   vmin 3053-3548 vmax 3337-3825  T 24..28C  tmax_col 28
+   NTC mostly-open: ['t0_12(100%)']  transient-open rows=0: 
+LOG0091: 664 rows 0.2-166.0s gaps>300ms=0 maxgap=250ms
+   FSM: Start@0.2 Pre@49.5 Run@50.5 ERR@63.2
+   modes=[0, 1] tsms=[0, 1] dash_presses=4 mod_mask=[31] fault=OverI(0)@63.25s
+   pack 286.0-355.1V  I_filt -1.1..182.6A  I_raw -3.2..244.9A  Idcdc -39.5..-36.3A  dcbus 0-353V
+   vmin 2873-3584 vmax 3160-3858  T 25..29C  tmax_col 29
+   NTC mostly-open: ['t0_12(100%)']  transient-open rows=2: 0.50s[Start]:t0_13 | 0.75s[Start]:t0_13
+LOG0092: 190 rows 0.2-47.8s gaps>300ms=1 maxgap=500ms
+   FSM: ERR@0.2
+   modes=[0] tsms=[0] dash_presses=0 mod_mask=[31] fault=-
+   pack 353.4-354.0V  I_filt -0.6..0.2A  I_raw -2.8..1.1A  Idcdc -39.2..-33.2A  dcbus 0-9V
+   vmin 3528-3570 vmax 3847-3848  T 27..29C  tmax_col 29
+   NTC mostly-open: ['t0_12(99%)']  transient-open rows=2: 0.50s[ERR]:t0_13 | 0.75s[ERR]:t0_13
+LOG0093: 1030 rows 0.2-257.5s gaps>300ms=0 maxgap=250ms
+   FSM: Start@0.2 Pre@16.2 Run@17.5 Start@148.2 ERR@148.5
+   modes=[0, 1] tsms=[0, 1] dash_presses=1 mod_mask=[15, 31] fault=ModOffline(M0M1)@148.50s
+   pack 282.6-354.2V  I_filt -0.6..4.2A  I_raw -1.4..6.0A  Idcdc -39.8..-35.5A  dcbus 0-352V
+   vmin 3510-3572 vmax 3824-3849  T -20..29C  tmax_col 29
+   NTC mostly-open: ['t0_12(100%)']  transient-open rows=3: 0.50s[Start]:t0_13 | 0.75s[Start]:t0_13 | 148.75s[ERR]:t0_13
+   IMU: 25765 rows 0.1-257.7s gaps>20ms=0 maxgap=16ms  |a| 0.80..1.23g std=0.032  |w| max 0.49rad/s  ax[-0.23,0.16] ay[-0.20,0.18] az[0.77,1.23]
+LOG0094: 24 rows 0.2-6.0s gaps>300ms=0 maxgap=250ms
+   FSM: ERR@0.2
+   modes=[0] tsms=[0] dash_presses=0 mod_mask=[31] fault=-
+   pack 353.3-353.8V  I_filt -0.5..-0.2A  I_raw -2.5..0.3A  Idcdc -38.9..-33.9A  dcbus 0-0V
+   vmin 3525-3566 vmax 3845-3845  T 27..29C  tmax_col 29
+   NTC mostly-open: ['t0_12(91%)']  transient-open rows=2: 0.50s[ERR]:t0_13 | 0.75s[ERR]:t0_13
+   IMU: 595 rows 0.1-6.0s gaps>20ms=0 maxgap=16ms  |a| 1.00..1.01g std=0.002  |w| max 0.01rad/s  ax[-0.02,-0.01] ay[-0.01,-0.01] az[1.00,1.01]
+LOG0095: 120 rows 0.2-30.0s gaps>300ms=0 maxgap=250ms
+   FSM: Start@0.2 Pre@14.8 ERR@19.8
+   modes=[0, 1] tsms=[0, 1] dash_presses=1 mod_mask=[31] fault=FsmError(0)@19.75s
+   pack 353.4-353.8V  I_filt -0.7..0.4A  I_raw -2.5..2.1A  Idcdc -38.9..-34.4A  dcbus 0-266V
+   vmin 3525-3566 vmax 3844-3846  T 27..29C  tmax_col 29
+   NTC mostly-open: ['t0_12(98%)']  transient-open rows=2: 0.50s[Start]:t0_13 | 0.75s[Start]:t0_13
+LOG0096: 98 rows 0.2-24.5s gaps>300ms=0 maxgap=250ms
+   FSM: Start@0.2 Pre@8.5 ERR@13.5
+   modes=[0, 1] tsms=[0, 1] dash_presses=1 mod_mask=[31] fault=FsmError(0)@13.50s
+   pack 353.4-353.8V  I_filt -0.7..0.2A  I_raw -2.1..1.4A  Idcdc -39.1..-34.5A  dcbus 0-266V
+   vmin 3525-3566 vmax 3844-3846  T 27..29C  tmax_col 29
+   NTC mostly-open: ['t0_12(98%)']  transient-open rows=2: 0.50s[Start]:t0_13 | 0.75s[Start]:t0_13
+LOG0097: 105 rows 0.2-26.2s gaps>300ms=0 maxgap=250ms
+   FSM: Start@0.2 Pre@8.5 ERR@13.5
+   modes=[0, 1] tsms=[0, 1] dash_presses=1 mod_mask=[31] fault=FsmError(0)@13.50s
+   pack 353.4-353.9V  I_filt -0.7..0.3A  I_raw -2.5..2.1A  Idcdc -39.3..-35.6A  dcbus 0-265V
+   vmin 3526-3567 vmax 3844-3846  T 27..29C  tmax_col 29
+   NTC mostly-open: ['t0_12(98%)']  transient-open rows=2: 0.50s[Start]:t0_13 | 0.75s[Start]:t0_13
+   IMU: 2635 rows 0.1-26.4s gaps>20ms=0 maxgap=16ms  |a| 0.96..1.02g std=0.002  |w| max 0.15rad/s  ax[-0.02,-0.00] ay[-0.03,-0.00] az[0.96,1.02]
+LOG0098: 593 rows 0.2-148.2s gaps>300ms=0 maxgap=250ms
+   FSM: Start@0.2 Pre@15.5 Run@16.8 ERR@106.2
+   modes=[0, 1] tsms=[0, 1] dash_presses=1 mod_mask=[31] fault=OpenWire(M0M1M2M3M4)@106.25s
+   pack 277.2-374.5V  I_filt -0.8..184.1A  I_raw -1.8..229.5A  Idcdc -39.6..-34.8A  dcbus 0-353V
+   vmin 2739-3752 vmax 3083-4124  T -6..31C  tmax_col 31
+   NTC mostly-open: ['t0_12(100%)']  transient-open rows=1: 0.50s[Start]:t0_13
+LOG0099: 112 rows 0.2-28.0s gaps>300ms=0 maxgap=250ms
+   FSM: Start@0.2 Pre@17.5 ERR@22.5
+   modes=[0, 1] tsms=[0, 1] dash_presses=1 mod_mask=[31] fault=FsmError(0)@22.50s
+   pack 350.3-351.4V  I_filt -0.6..0.8A  I_raw -1.4..2.1A  Idcdc -39.1..-34.2A  dcbus 0-264V
+   vmin 3489-3535 vmax 3819-3827  T 28..30C  tmax_col 30
+   NTC mostly-open: ['t0_12(98%)']  transient-open rows=2: 0.50s[Start]:t0_13 | 0.75s[Start]:t0_13
+LOG0100: 45 rows 0.2-11.2s gaps>300ms=0 maxgap=250ms
+   FSM: Start@0.2
+   modes=[0] tsms=[0, 1] dash_presses=0 mod_mask=[31] fault=-
+   pack 351.0-351.6V  I_filt -1.3..0.1A  I_raw -3.2..0.3A  Idcdc -39.1..-34.2A  dcbus 0-0V
+   vmin 3495-3537 vmax 3827-3829  T 28..30C  tmax_col 30
+   NTC mostly-open: ['t0_12(95%)']  transient-open rows=2: 0.50s[Start]:t0_13 | 0.75s[Start]:t0_13
+   IMU: 1140 rows 0.1-11.5s gaps>20ms=0 maxgap=16ms  |a| 0.98..1.03g std=0.002  |w| max 0.07rad/s  ax[-0.06,-0.04] ay[-0.03,-0.00] az[0.98,1.03]
+LOG0101: 25 rows 0.2-6.2s gaps>300ms=0 maxgap=250ms
+   FSM: ERR@0.2
+   modes=[0] tsms=[0] dash_presses=0 mod_mask=[31] fault=-
+   pack 351.2-351.7V  I_filt -0.9..-0.1A  I_raw -1.1..1.1A  Idcdc -39.0..-34.0A  dcbus 0-24V
+   vmin 3497-3538 vmax 3829-3830  T 28..30C  tmax_col 30
+   NTC mostly-open: ['t0_12(92%)']  transient-open rows=2: 0.50s[ERR]:t0_13 | 0.75s[ERR]:t0_13
+   IMU: 620 rows 0.1-6.3s gaps>20ms=0 maxgap=16ms  |a| 1.00..1.01g std=0.002  |w| max 0.01rad/s  ax[-0.06,-0.04] ay[-0.03,-0.01] az[0.99,1.01]
+LOG0102: 1200 rows 0.2-300.0s gaps>300ms=0 maxgap=250ms
+   FSM: Start@0.2 Pre@10.5 Run@11.5 Start@105.8 Pre@120.0 Run@121.2 Start@127.2 Pre@155.5 Trans@156.5 Run@156.8 ERR@241.8
+   modes=[0, 1] tsms=[0, 1] dash_presses=3 mod_mask=[31] fault=OpenWire(M0M1M2M3M4)@241.75s
+   pack 289.0-369.0V  I_filt -0.8..164.0A  I_raw -3.9..197.6A  Idcdc -40.0..-34.7A  dcbus 0-350V
+   vmin 2871-3695 vmax 3209-4046  T 28..31C  tmax_col 31
+   NTC mostly-open: ['t0_12(100%)']  transient-open rows=2: 0.50s[Start]:t0_13 | 0.75s[Start]:t0_13
+LOG0103: 85 rows 300.2-321.2s gaps>300ms=0 maxgap=250ms
+   FSM: ERR@300.2
+   modes=[1] tsms=[0] dash_presses=0 mod_mask=[31] fault=OpenWire(M0M1M2M3M4)@300.25s
+   pack 349.8-350.5V  I_filt -0.7..0.2A  I_raw -1.1..1.1A  Idcdc -39.2..-38.8A  dcbus 0-0V
+   vmin 3477-3519 vmax 3815-3819  T 29..31C  tmax_col 31
+   NTC mostly-open: ['t0_12(100%)']  transient-open rows=0: 
+LOG0104: 54 rows 0.2-13.5s gaps>300ms=0 maxgap=250ms
+   FSM: ERR@0.2
+   modes=[0] tsms=[0] dash_presses=0 mod_mask=[31] fault=-
+   pack 350.7-351.2V  I_filt -0.8..-0.1A  I_raw -3.5..1.1A  Idcdc -39.1..-35.7A  dcbus 0-0V
+   vmin 3483-3524 vmax 3824-3824  T -16..31C  tmax_col 31
+   NTC mostly-open: ['t0_12(96%)']  transient-open rows=2: 0.50s[ERR]:t0_13 | 0.75s[ERR]:t0_13
+LOG0105: 89 rows 0.2-22.2s gaps>300ms=0 maxgap=250ms
+   FSM: Start@0.2 Pre@10.5 ERR@15.5
+   modes=[0, 1] tsms=[0, 1] dash_presses=1 mod_mask=[31] fault=FsmError(0)@15.50s
+   pack 350.7-351.2V  I_filt -0.7..0.1A  I_raw -2.5..1.1A  Idcdc -38.9..-35.4A  dcbus 0-264V
+   vmin 3483-3524 vmax 3823-3825  T 29..31C  tmax_col 31
+   NTC mostly-open: ['t0_12(98%)']  transient-open rows=2: 0.50s[Start]:t0_13 | 0.75s[Start]:t0_13
+   IMU: 2235 rows 0.1-22.4s gaps>20ms=0 maxgap=16ms  |a| 0.93..1.03g std=0.003  |w| max 0.23rad/s  ax[-0.05,-0.03] ay[-0.02,0.00] az[0.93,1.03]
+LOG0106: 378 rows 0.2-94.5s gaps>300ms=0 maxgap=250ms
+   FSM: Start@0.2 Pre@12.0 Run@13.2 Start@82.0
+   modes=[0, 1] tsms=[0, 1] dash_presses=1 mod_mask=[31] fault=-
+   pack 348.6-351.2V  I_filt -0.6..4.8A  I_raw -2.5..6.3A  Idcdc -39.6..-34.9A  dcbus 0-349V
+   vmin 3460-3524 vmax 3798-3825  T 28..31C  tmax_col 31
+   NTC mostly-open: ['t0_12(99%)']  transient-open rows=2: 0.50s[Start]:t0_13 | 0.75s[Start]:t0_13
+   IMU: 9445 rows 0.1-94.5s gaps>20ms=0 maxgap=16ms  |a| 0.78..1.21g std=0.038  |w| max 0.18rad/s  ax[-0.19,0.14] ay[-0.30,0.16] az[0.77,1.20]

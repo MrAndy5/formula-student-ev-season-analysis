@@ -1,0 +1,6 @@
+driver,total_sessions,total_distance_km,total_drive_time_min,peak_speed_kmh,avg_speed_kmh,peak_lat_accel_g,peak_long_accel_g,peak_braking_decel_g,p95_friction_circle_g,avg_power_kw,peak_power_kw,energy_wh_km,total_energy_kwh,regen_recovery_pct,ev_2_3_breach_count,style_assessment
+Andres Dieguez,18,90.7,47.7,129.8,114.0,0.0,0.0,0.0,0.0,2.46,97.57,25.5,2.315,2.59,1,Aggressive high-torque transitions; trail-braking foot overlap induced EV 2.3 shutdown in Austria Endurance Stint 2.
+Marta,16,71.83,49.7,129.8,86.8,0.0,0.0,0.0,0.0,2.97,156.88,34.3,2.46,13.23,0,Extremely smooth throttle modulation and sustained high-speed cornering; lowest battery specific wear.
+Landa,7,1.97,9.4,87.8,12.6,0.0,0.0,0.0,0.0,2.72,45.52,270.0,0.532,0.46,0,Sprint specialist with violent launch acceleration and heavy transient battery loading in Barcelona.
+Marco,2,1.36,5.4,76.3,15.0,0.0,0.0,0.0,0.0,2.31,32.41,197.0,0.268,0.26,0,Consistent developmental testing driver with measured G-envelope and steady thermal management.
+Didi,1,0.55,9.3,46.7,3.5,0.0,0.0,0.0,0.0,-0.35,0.25,-157.5,-0.087,4250.09,0,High-effort shakedown driver with robust brake recovery and consistent lap cadence.

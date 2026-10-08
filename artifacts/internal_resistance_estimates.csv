@@ -1,0 +1,12 @@
+scope,r_pack_ohm,r_pack_mohm,r_cell_mean_mohm,v_ocv_fit_v,r_squared,sample_count,notes
+Season Pack Aggregate (95s1p),0.4001,400.1,4.21,356.24,0.646,2424,Aggregate dynamic regression across all high-load track sessions
+Module Average (19s1p),0.08,80.0,4.21,71.25,0.646,2424,Normalized per 19-cell module (5 modules in series)
+Cell Average (1s1p),0.004212,4.21,4.21,3.75,0.646,2424,Normalized per single cell (95 cells in series)
+Session LOG0077,0.4817,481.7,5.07,363.15,0.7399,582,In-situ OLS fit from LOG0077.CSV
+Session LOG0089,0.4409,440.9,4.64,357.03,0.6251,1106,In-situ OLS fit from LOG0089.CSV
+Session LOG0090,0.3872,387.2,4.08,351.09,0.7213,448,In-situ OLS fit from LOG0090.CSV
+Session LOG0091,0.3584,358.4,3.77,354.12,0.8468,31,In-situ OLS fit from LOG0091.CSV
+Session LOG0093,0.3949,394.9,4.16,353.56,0.2251,277,In-situ OLS fit from LOG0093.CSV
+Session LOG0098,0.3822,382.2,4.02,354.12,0.7533,56,In-situ OLS fit from LOG0098.CSV
+Session LOG0102,0.3407,340.7,3.59,351.33,0.8922,232,In-situ OLS fit from LOG0102.CSV
+Session LOG0106,0.3051,305.1,3.21,350.54,0.4833,79,In-situ OLS fit from LOG0106.CSV

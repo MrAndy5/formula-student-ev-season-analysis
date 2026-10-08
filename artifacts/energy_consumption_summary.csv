@@ -1,0 +1,65 @@
+source_file,session_id,venue,discipline,driver,sample_count,duration_s,distance_km,avg_speed_kmh,peak_speed_kmh,discharged_wh,regenerated_wh,net_wh,net_kwh,wh_km,wh_min,regen_recovery_pct,avg_power_kw,peak_power_kw
+--- FULL SEASON TOTAL ---,SEASON_AGGREGATE,All Venues,Season Aggregate,All Drivers,47980,10365.6,199.449,69.3,706.6,39663.8,563.1,39100.7,39.101,196.0,226.3,1.42,14.06,307.2
+ISC_20260719_012504_prueba_canto.csv,ISC_20260719_012504_prueba_canto,Cantoblanco,Static/Bench,Unknown,617,203.01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ISC_20260719_160015_marta_19_7_run_1_canto.csv,ISC_20260719_160015_marta_19_7_run_1_canto,Cantoblanco,Testing,Marta,657,291.21,1.303,16.1,256.7,122.5,7.83,114.67,0.1147,88.0,23.6,6.39,1.22,20.73
+ISC_20260719_164039_sandra_19_7_run_1_canto.csv,ISC_20260719_164039_sandra_19_7_run_1_canto,Cantoblanco,Testing,Sandra,206,75.77,1.43,67.9,198.7,86.51,3.2,83.31,0.0833,58.3,66.0,3.7,2.87,16.92
+ISC_20260719_165514_sandra_19_7_run_2_canto.csv,ISC_20260719_165514_sandra_19_7_run_2_canto,Cantoblanco,Testing,Sandra,575,236.1,5.949,90.7,333.9,577.77,3.96,573.81,0.5738,96.4,145.8,0.68,8.41,97.57
+ISC_20260719_173627_marta_19_7_run_2_canto.csv,ISC_20260719_173627_marta_19_7_run_2_canto,Cantoblanco,Testing,Marta,904,261.11,5.357,73.9,395.4,663.33,5.55,657.78,0.6578,122.8,151.1,0.84,8.45,101.19
+ISC_20260719_181210_marta_19_7_run_3_canto.csv,ISC_20260719_181210_marta_19_7_run_3_canto,Cantoblanco,Testing,Marta,775,196.58,6.511,119.2,469.1,741.64,6.8,734.84,0.7348,112.9,224.3,0.92,13.66,156.88
+ISC_20260719_182141_marta_canto (1).csv,ISC_20260719_182141_marta_canto (1),Cantoblanco,Testing,Marta,585,158.42,3.256,74.0,439.5,419.91,1.1,418.81,0.4188,128.6,158.6,0.26,6.89,135.36
+ISC_20260720_201930_Piloto_Test_Circuito_Test.csv,ISC_20260720_201930_Piloto_Test_Circuito_Test,Cantoblanco,Testing,Test/Sim,934,211.34,0.0,0.0,0.0,0.0,6.09,-6.09,-0.0061,0.0,-1.7,0.0,-0.1,0.0
+ISC_20260720_223912_Marta_test_1_Cantoblanco_20_07.csv,ISC_20260720_223912_Marta_test_1_Cantoblanco_20_07,Cantoblanco,Testing,Marta,112,38.17,0.0,0.0,0.0,0.0,1.56,-1.56,-0.0016,0.0,-2.4,0.0,-0.15,-0.05
+ISC_20260720_224030_Marta_test_1_Cantoblanco_20_07.csv,ISC_20260720_224030_Marta_test_1_Cantoblanco_20_07,Cantoblanco,Testing,Marta,663,274.55,0.739,9.7,41.9,87.07,3.5,83.58,0.0836,113.1,18.3,4.02,1.11,13.67
+ISC_20260720_225725_Marta_test_2_Cantoblanco_20_07.csv,ISC_20260720_225725_Marta_test_2_Cantoblanco_20_07,Cantoblanco,Testing,Marta,407,154.5,0.858,20.0,50.6,112.14,0.35,111.78,0.1118,130.4,43.4,0.31,2.03,16.04
+ISC_20260720_231158_Andres_test_1_Cantoblanco_20_07.csv,ISC_20260720_231158_Andres_test_1_Cantoblanco_20_07,Cantoblanco,Testing,Andrés,475,122.29,0.0,0.0,0.0,0.0,3.54,-3.54,-0.0035,0.0,-1.7,0.0,-0.1,-0.04
+ISC_20260720_231432_Andres_test_1_Cantoblanco_20_07.csv,ISC_20260720_231432_Andres_test_1_Cantoblanco_20_07,Cantoblanco,Testing,Andrés,838,219.03,0.814,13.4,50.5,121.38,1.81,119.57,0.1196,146.9,32.8,1.49,1.45,15.72
+ISC_20260720_232121_Andres_test_2_Cantoblanco_20_07.csv,ISC_20260720_232121_Andres_test_2_Cantoblanco_20_07,Cantoblanco,Testing,Andrés,664,173.7,0.501,10.4,45.1,68.98,1.43,67.55,0.0675,134.8,23.3,2.07,0.79,14.42
+ISC_20260721_174418_MARTA3_CANTO (1).csv,ISC_20260721_174418_MARTA3_CANTO (1),Cantoblanco,Testing,Marta,493,153.55,0.972,22.8,52.7,0.7,171.18,-170.48,-0.1705,-175.3,-66.6,24516.18,-3.95,0.22
+ISC_20260721_174418_MARTA3_CANTO.csv,ISC_20260721_174418_MARTA3_CANTO,Cantoblanco,Testing,Marta,493,153.55,0.972,22.8,52.7,0.7,171.18,-170.48,-0.1705,-175.3,-66.6,24516.18,-3.95,0.22
+ISC_20260721_175056_DIDI1_CANTO.csv,ISC_20260721_175056_DIDI1_CANTO,Cantoblanco,Testing,Didi,2462,560.47,0.55,3.5,46.7,2.09,88.67,-86.58,-0.0866,-157.5,-9.3,4250.09,-0.35,0.25
+ISC_20260729_155733_marta_brk_dynamics.csv,ISC_20260729_155733_marta_brk_dynamics,Cantoblanco,Brake Dyn,Marta,185,38.01,0.0,0.0,0.0,0.9,0.0,0.9,0.0009,0.0,1.4,0.0,0.08,0.14
+ISC_20260729_161852_marta_brk_dynamics(1).csv,ISC_20260729_161852_marta_brk_dynamics(1),Cantoblanco,Brake Dyn,Marta,36,11.0,0.0,0.0,0.0,0.25,0.0,0.25,0.0002,0.0,1.3,0.0,0.08,0.14
+ISC_20260729_175919_Andres_Autocross_Austria.csv,ISC_20260729_175919_Andres_Autocross_Austria,Austria,Autocross,Andrés,133,35.61,0.273,27.6,51.7,0.0,32.76,-32.76,-0.0328,-120.0,-55.2,0.0,-2.61,0.0
+ISC_20260730_091925_andres_dieguez_1_austria_endurance_2026_1 (2).csv,ISC_20260730_091925_andres_dieguez_1_austria_endurance_2026_1 (2),Austria,Endurance,Andrés,254,100.35,0.419,15.0,68.3,72.2,2.36,69.84,0.0698,166.8,41.8,3.27,1.96,25.52
+ISC_20260730_092010_andres_dieguez_2_austria_endurance_2026_2 (1).csv,ISC_20260730_092010_andres_dieguez_2_austria_endurance_2026_2 (1),Austria,Endurance,Andrés,170,65.01,0.787,43.6,67.2,160.29,0.0,160.29,0.1603,203.6,147.9,0.0,9.06,25.52
+ISC_20260730_093052_andres_dieguez_1_austria_endurance_2026_1.csv,ISC_20260730_093052_andres_dieguez_1_austria_endurance_2026_1,Austria,Endurance,Andrés,20,3.8,0.0,0.0,0.0,0.0,0.12,-0.12,-0.0001,0.0,-1.9,0.0,-0.12,-0.11
+ISC_20260730_093146_test_austria_endurance_2026_1.csv,ISC_20260730_093146_test_austria_endurance_2026_1,Austria,Endurance,Unknown,38,7.34,0.0,0.0,0.0,0.0,0.2,-0.2,-0.0002,0.0,-1.6,0.0,-0.1,-0.07
+ISC_20260730_102421_andres_practice_area_1.csv,ISC_20260730_102421_andres_practice_area_1,Cantoblanco,Testing,Andrés,32,18.25,0.001,0.2,1.4,0.08,0.47,-0.39,-0.0004,-305.8,-1.3,0.0,-0.09,0.11
+ISC_20260730_MERGED_austria_endurance_2026_full.csv,ISC_20260730_MERGED_austria_endurance_2026_full,Austria,Endurance,Unknown,338,150.8,0.991,23.6,67.2,178.12,2.36,175.75,0.1758,177.4,69.9,1.33,3.17,25.52
+ISC_20260804_131223_landa_brk_1_barcelona.csv,ISC_20260804_131223_landa_brk_1_barcelona,Barcelona,Brake Dyn,Landa,154,40.71,0.034,3.0,11.7,1.56,0.5,1.06,0.0011,31.0,1.6,31.86,0.12,0.94
+ISC_20260804_162149_landa_practice1_BAR.csv,ISC_20260804_162149_landa_practice1_BAR,Barcelona,Testing,Landa,5,2.4,0.02,29.9,31.4,4.19,0.0,4.19,0.0042,210.0,104.8,0.0,4.85,8.48
+ISC_20260805_093215_Andres_Practice_bcn_skid.csv,ISC_20260805_093215_Andres_Practice_bcn_skid,Barcelona,Skidpad,Andrés,118,37.05,0.069,6.7,33.2,6.15,0.74,5.41,0.0054,77.9,8.8,12.06,0.42,6.32
+ISC_20260805_113947_Andres_skidpad_bcn_1.csv,ISC_20260805_113947_Andres_skidpad_bcn_1,Barcelona,Skidpad,Andrés,27,16.44,0.039,8.4,28.8,3.48,0.03,3.45,0.0035,89.5,12.6,0.8,0.55,2.53
+ISC_20260805_114338_Andres_skidpad_bcn_2.csv,ISC_20260805_114338_Andres_skidpad_bcn_2,Barcelona,Skidpad,Andrés,42,30.21,0.021,2.5,35.9,2.81,0.0,2.81,0.0028,136.0,5.6,0.0,0.26,3.96
+ISC_20260805_153435_Marta_test1_bcn.csv,ISC_20260805_153435_Marta_test1_bcn,Barcelona,Testing,Marta,214,81.69,0.539,23.7,42.1,38.5,0.39,38.11,0.0381,70.7,28.0,1.01,1.24,9.56
+ISC_20260805_164731_landa_practice_bcn.csv,ISC_20260805_164731_landa_practice_bcn,Barcelona,Testing,Landa,743,237.99,1.124,17.0,55.0,284.5,0.37,284.12,0.2841,252.9,71.6,0.13,3.69,19.71
+ISC_20260805_182532_marta_accel_bcn.csv,ISC_20260805_182532_marta_accel_bcn,Barcelona,Acceleration,Marta,953,264.03,0.051,0.7,50.2,15.51,0.14,15.37,0.0154,303.5,3.5,0.89,0.21,17.8
+ISC_20260805_191342_prueba_box.csv,ISC_20260805_191342_prueba_box,Barcelona,Static/Bench,Unknown,259,51.77,0.062,4.3,80.5,1.81,0.23,1.58,0.0016,25.4,1.8,12.79,0.11,3.22
+ISC_20260805_193430_inv1_test.csv,ISC_20260805_193430_inv1_test,Barcelona,Static/Bench,Unknown,297,59.99,0.106,6.3,81.7,3.63,0.68,2.95,0.0029,27.9,2.9,18.83,0.17,3.84
+ISC_20260805_224552_LANDA_ACC1.csv,ISC_20260805_224552_LANDA_ACC1,Barcelona,Acceleration,Landa,323,107.67,0.083,2.8,70.4,27.83,0.79,27.04,0.027,326.0,15.1,2.84,0.8,37.8
+ISC_20260805_224552_MERGED_landa_montmelo_acc_full.csv,ISC_20260805_224552_MERGED_landa_montmelo_acc_full,Barcelona,Testing,Landa,356,125.2,0.285,8.2,87.8,88.17,0.79,87.38,0.0874,306.4,41.9,0.89,1.81,45.52
+ISC_20260805_224612_landa_montmelo_acceleration_final_recta (1).csv,ISC_20260805_224612_landa_montmelo_acceleration_final_recta (1),Barcelona,Acceleration,Landa,42,23.42,0.203,31.1,87.8,60.47,0.0,60.47,0.0605,298.5,154.9,0.0,9.15,45.52
+ISC_20260806_142509_marco_montmelo_autox.csv,ISC_20260806_142509_marco_montmelo_autox,Barcelona,Autocross,Marco,492,178.15,0.92,18.6,52.8,144.7,0.64,144.06,0.1441,156.6,48.5,0.44,2.13,23.26
+ISC_20260806_172616_marco_montmelo_autox.csv,ISC_20260806_172616_marco_montmelo_autox,Barcelona,Autocross,Marco,342,148.07,0.439,10.7,76.3,123.6,0.06,123.54,0.1235,281.6,50.1,0.05,2.57,32.41
+ISC_20260807_125809_Landa_Marco_endurance.csv,ISC_20260807_125809_Landa_Marco_endurance,Barcelona,Endurance,Landa/Marco,56,24.97,0.22,31.7,45.2,67.24,0.0,67.24,0.0672,305.5,161.6,0.0,8.99,20.37
+ISC_20260919_131102_Piloto_Test_Circuito_Test.csv,ISC_20260919_131102_Piloto_Test_Circuito_Test,Cantoblanco,Testing,Test/Sim,227,45.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ISC_20260920_110344_Piloto_Test_Circuito_Test.csv,ISC_20260920_110344_Piloto_Test_Circuito_Test,Cantoblanco,Testing,Test/Sim,1796,363.96,0.0,0.0,0.0,0.0,14.5,-14.5,-0.0145,0.0,-2.4,0.0,-0.14,0.0
+ISC_20260920_111624_marta_canto1.csv,ISC_20260920_111624_marta_canto1,Cantoblanco,Testing,Marta,1931,486.28,25.999,192.5,545.5,319.44,3.76,315.68,0.3157,12.1,39.0,1.18,2.17,25.23
+ISC_20260920_111653_Marta_Testing_Cantoblanco_1.csv,ISC_20260920_111653_Marta_Testing_Cantoblanco_1,Cantoblanco,Testing,Marta,994,287.05,15.359,192.6,477.2,183.06,1.71,181.35,0.1813,11.8,37.9,0.93,2.38,20.71
+ISC_20260920_112254_Marta_Testing_Cantoblanco_2.csv,ISC_20260920_112254_Marta_Testing_Cantoblanco_2,Cantoblanco,Testing,Marta,461,130.37,9.915,273.8,614.8,129.77,0.0,129.77,0.1298,13.1,59.7,0.0,3.44,20.35
+ISC_20260920_114635_andr%C3%A9s_calentamiento_canto1.csv,ISC_20260920_114635_andr%C3%A9s_calentamiento_canto1,Cantoblanco,Warmup,Unknown,1426,395.88,29.768,270.7,600.9,482.16,0.83,481.32,0.4813,16.2,73.0,0.17,4.62,32.71
+ISC_20260920_114700_Andres_Testing_Cantoblanco_1.csv,ISC_20260920_114700_Andres_Testing_Cantoblanco_1,Cantoblanco,Testing,Andrés,918,293.0,22.364,274.8,490.4,328.22,0.0,328.22,0.3282,14.7,67.2,0.0,4.06,23.63
+ISC_20260920_152844_Piloto_Test_Circuito_Test.csv,ISC_20260920_152844_Piloto_Test_Circuito_Test,Cantoblanco,Testing,Test/Sim,233,48.0,0.0,0.0,0.0,0.0,1.77,-1.77,-0.0018,0.0,-2.2,0.0,-0.13,-0.07
+ISC_20260920_153221_Piloto_Test_Circuito_Test.csv,ISC_20260920_153221_Piloto_Test_Circuito_Test,Cantoblanco,Testing,Test/Sim,52,10.42,0.0,0.0,0.0,0.0,0.23,-0.23,-0.0002,0.0,-1.3,0.0,-0.08,-0.01
+ISC_20260920_153953_Piloto_Test_Circuito_Test(1).csv,ISC_20260920_153953_Piloto_Test_Circuito_Test(1),Cantoblanco,Testing,Test/Sim,90,18.37,0.0,0.0,0.0,0.0,0.29,-0.29,-0.0003,0.0,-0.9,0.0,-0.06,0.0
+ISC_20260920_153953_Piloto_Test_Circuito_Test.csv,ISC_20260920_153953_Piloto_Test_Circuito_Test,Cantoblanco,Testing,Test/Sim,90,18.37,0.0,0.0,0.0,0.0,0.29,-0.29,-0.0003,0.0,-0.9,0.0,-0.06,0.0
+ISC_20260920_154101_Piloto_Test_Circuito_Test.csv,ISC_20260920_154101_Piloto_Test_Circuito_Test,Cantoblanco,Testing,Test/Sim,2502,611.88,15.785,92.9,529.3,242.68,7.98,234.7,0.2347,14.9,23.0,3.29,1.07,20.66
+ISC_20260920_154755_andres_endurance_p1_canto.csv,ISC_20260920_154755_andres_endurance_p1_canto,Cantoblanco,Endurance,Andrés,2746,628.26,12.162,69.7,529.3,192.72,6.86,185.86,0.1859,15.3,17.7,3.56,1.01,20.76
+ISC_20260920_155354_Andres_Test_Cantoblanco_Test.csv,ISC_20260920_155354_Andres_Test_Cantoblanco_Test,Cantoblanco,Testing,Andrés,1082,274.74,2.607,34.2,446.8,35.19,2.68,32.51,0.0325,12.5,7.1,7.61,0.32,13.1
+ISC_20260929_113826_Andres_Jarama_1.1 (2).csv,ISC_20260929_113826_Andres_Jarama_1.1 (2),Jarama,Testing,Andrés,465,138.86,13.493,349.8,706.6,238.81,0.82,237.99,0.238,17.6,102.8,0.34,5.99,38.92
+ISC_DEMO_20251226_115005_MarpleTester_CircuitoVirtual.csv,ISC_DEMO_20251226_115005_MarpleTester_CircuitoVirtual,Demo / Virtual Sim,Testing,Test/Sim,5920,295.95,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ISC_DEMO_20260708_123019_Piloto_Test_Circuito_Test.csv,ISC_DEMO_20260708_123019_Piloto_Test_Circuito_Test,Cantoblanco,Testing,Test/Sim,83,8.3,0.135,58.7,86.7,360.63,0.0,360.63,0.3606,2665.3,2607.0,0.0,154.45,307.2
+ISC_DEMO_20260708_123116_Marple_Insight.csv,ISC_DEMO_20260708_123116_Marple_Insight,Cantoblanco,Testing,Test/Sim,6337,635.5,10.49,59.4,90.4,21346.84,0.0,21346.84,21.3468,2035.0,2015.4,0.0,120.91,307.2
+ISC_DEMO_20260709_135110_Piloto_Test_Circuito_Test.csv,ISC_DEMO_20260709_135110_Piloto_Test_Circuito_Test,Cantoblanco,Testing,Test/Sim,2983,315.95,5.219,59.5,90.3,10732.67,0.0,10732.67,10.7327,2056.6,2038.2,0.0,122.26,307.2
+ISC_DEMO_20260721_194627_Piloto_Test_Circuito_Test.csv,ISC_DEMO_20260721_194627_Piloto_Test_Circuito_Test,Cantoblanco,Testing,Test/Sim,105,10.5,0.174,59.6,86.4,485.3,0.0,485.3,0.4853,2791.0,2773.1,0.0,163.59,307.2
+ISC_DEMO_20260803_092852_PrimerOn_Barcelona.csv,ISC_DEMO_20260803_092852_PrimerOn_Barcelona,Barcelona,Static/Bench,Test/Sim,50,4.9,0.081,59.8,86.4,295.56,0.0,295.56,0.2956,3634.2,3619.1,0.0,213.07,307.2

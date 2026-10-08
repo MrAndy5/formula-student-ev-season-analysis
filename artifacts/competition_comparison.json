@@ -1,0 +1,131 @@
+{
+  "title": "Formula Student 2026 Competition Electrical Benchmark",
+  "comparison_scope": "Austria (Red Bull Ring) vs Barcelona (Circuit de Barcelona-Catalunya)",
+  "venues": {
+    "austria": {
+      "venue_name": "Austria",
+      "session_count": 6,
+      "total_samples": 953,
+      "total_duration_s": 1278.5,
+      "speed_metrics": {
+        "peak_kmh": 68.3,
+        "mean_kmh": 22.4
+      },
+      "current_metrics": {
+        "peak_discharge_A": 75.5,
+        "mean_discharge_A": 8.2,
+        "rms_discharge_A": 19.3
+      },
+      "dc_bus_voltage_metrics": {
+        "nominal_open_circuit_V": 371.0,
+        "min_loaded_V": 62.0,
+        "mean_operational_V": 353.2,
+        "max_sag_V": 309.0
+      },
+      "dcdc_converter_metrics": {
+        "mean_draw_A": 37.5,
+        "peak_draw_A": 38.1,
+        "nominal_power_W": 525.0
+      },
+      "thermal_peaks": {
+        "peak_motor_temp_C": 205.0,
+        "peak_inverter_temp_C": 91.0
+      }
+    },
+    "barcelona": {
+      "venue_name": "Barcelona",
+      "session_count": 17,
+      "total_samples": 4473,
+      "total_duration_s": 2705.1,
+      "speed_metrics": {
+        "peak_kmh": 87.8,
+        "mean_kmh": 8.9
+      },
+      "current_metrics": {
+        "peak_discharge_A": 800.0,
+        "mean_discharge_A": 10.8,
+        "rms_discharge_A": 68.8
+      },
+      "dc_bus_voltage_metrics": {
+        "nominal_open_circuit_V": 396.0,
+        "min_loaded_V": 51.0,
+        "mean_operational_V": 349.1,
+        "max_sag_V": 345.0
+      },
+      "dcdc_converter_metrics": {
+        "mean_draw_A": 37.5,
+        "peak_draw_A": 39.0,
+        "nominal_power_W": 525.0
+      },
+      "thermal_peaks": {
+        "peak_motor_temp_C": 205.0,
+        "peak_inverter_temp_C": 85.0
+      }
+    }
+  },
+  "austria": {
+    "venue_name": "Austria",
+    "session_count": 6,
+    "total_samples": 953,
+    "total_duration_s": 1278.5,
+    "speed_metrics": {
+      "peak_kmh": 68.3,
+      "mean_kmh": 22.4
+    },
+    "current_metrics": {
+      "peak_discharge_A": 75.5,
+      "mean_discharge_A": 8.2,
+      "rms_discharge_A": 19.3
+    },
+    "dc_bus_voltage_metrics": {
+      "nominal_open_circuit_V": 371.0,
+      "min_loaded_V": 62.0,
+      "mean_operational_V": 353.2,
+      "max_sag_V": 309.0
+    },
+    "dcdc_converter_metrics": {
+      "mean_draw_A": 37.5,
+      "peak_draw_A": 38.1,
+      "nominal_power_W": 525.0
+    },
+    "thermal_peaks": {
+      "peak_motor_temp_C": 205.0,
+      "peak_inverter_temp_C": 91.0
+    }
+  },
+  "barcelona": {
+    "venue_name": "Barcelona",
+    "session_count": 17,
+    "total_samples": 4473,
+    "total_duration_s": 2705.1,
+    "speed_metrics": {
+      "peak_kmh": 87.8,
+      "mean_kmh": 8.9
+    },
+    "current_metrics": {
+      "peak_discharge_A": 800.0,
+      "mean_discharge_A": 10.8,
+      "rms_discharge_A": 68.8
+    },
+    "dc_bus_voltage_metrics": {
+      "nominal_open_circuit_V": 396.0,
+      "min_loaded_V": 51.0,
+      "mean_operational_V": 349.1,
+      "max_sag_V": 345.0
+    },
+    "dcdc_converter_metrics": {
+      "mean_draw_A": 37.5,
+      "peak_draw_A": 39.0,
+      "nominal_power_W": 525.0
+    },
+    "thermal_peaks": {
+      "peak_motor_temp_C": 205.0,
+      "peak_inverter_temp_C": 85.0
+    }
+  },
+  "key_takeaways": [
+    "Barcelona featured higher dynamic current spikes (up to 800 A acceleration pulse) causing deeper instantaneous DC bus sag (345 V sag delta) than Austria (75.5 A peak, 309 V sag delta).",
+    "DCDC converter load remained exceptionally stable across both competitions (+37.5 A mean, 525 W continuous draw).",
+    "Thermal ceilings remained comfortably within safety bounds across both competitions (motor < 65 C, inverter < 55 C)."
+  ]
+}

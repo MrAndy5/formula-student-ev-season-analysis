@@ -1,0 +1,6 @@
+module_id,module_name,cell_count,rest_mean_mV,rest_spread_mV,rest_std_mV,load_mean_mV,load_spread_mV,load_std_mV,delta_rest_to_load_mV,weakest_cell_id,min_observed_load_mV,balance_status
+0,Module_0,19,3800.8,181.4,49.96,3526.7,147.3,49.34,274.1,c0_3,2856.0,Elevated Spread Under High Load
+1,Module_1,19,3856.1,104.6,29.8,3585.1,114.6,27.68,271.0,c1_7,2877.0,Elevated Spread Under High Load
+2,Module_2,19,3704.7,92.1,25.74,3432.4,89.6,18.23,272.3,c2_0,2793.0,Elevated Spread Under High Load
+3,Module_3,19,3714.0,166.1,45.99,3443.6,169.4,41.37,270.4,c3_0,2782.0,Elevated Spread Under High Load
+4,Module_4,19,3772.6,167.9,43.98,3498.7,193.3,55.78,273.9,c4_9,2739.0,Elevated Spread Under High Load

@@ -1,0 +1,249 @@
+{
+  "dataset_census": {
+    "total_files": 118,
+    "active_data_files": 103,
+    "empty_stubs": 15,
+    "total_telemetry_files": 78,
+    "total_bms_files": 32,
+    "total_imu_files": 8,
+    "total_rows_logged": 104383,
+    "total_telemetry_rows": 47980,
+    "total_bms_rows": 12244,
+    "total_imu_rows": 44159,
+    "total_logged_duration_s": 19487.38,
+    "active_valid_duration_s": 19487.38
+  },
+  "subsystem_breakdown": {
+    "telemetry": {
+      "total_files": 78,
+      "active_files": 63,
+      "stubs": 15,
+      "duplicate_files": 2,
+      "unique_active_sessions": 61,
+      "total_rows": 47980,
+      "total_duration_s": 15992.62
+    },
+    "bms": {
+      "total_files": 32,
+      "active_files": 32,
+      "stubs": 0,
+      "duplicate_files": 0,
+      "unique_active_sessions": 32,
+      "total_rows": 12244,
+      "total_duration_s": 3053.25
+    },
+    "imu": {
+      "total_files": 8,
+      "active_files": 8,
+      "stubs": 0,
+      "duplicate_files": 0,
+      "unique_active_sessions": 8,
+      "total_rows": 44159,
+      "total_duration_s": 441.51
+    }
+  },
+  "schema_distribution": {
+    "schema_4": 44,
+    "schema_bms_314": 32,
+    "schema_1": 11,
+    "schema_2": 8,
+    "schema_imu_7": 8,
+    "schema_0": 7,
+    "schema_9": 2,
+    "schema_7": 2,
+    "schema_3": 1,
+    "schema_5": 1,
+    "schema_6": 1,
+    "schema_8": 1
+  },
+  "venue_distribution": {
+    "Cantoblanco": 83,
+    "Barcelona": 25,
+    "Austria": 6,
+    "Jarama": 3,
+    "Demo / Virtual Sim": 1
+  },
+  "discipline_distribution": {
+    "Testing": 53,
+    "Static/Bench": 29,
+    "Endurance": 7,
+    "Dynamics/IMU": 7,
+    "Acceleration": 7,
+    "Autocross": 5,
+    "Brake Dyn": 4,
+    "Skidpad": 3,
+    "Warmup": 3
+  },
+  "driver_distribution": {
+    "Unknown": 37,
+    "Test/Sim": 26,
+    "Andrés": 19,
+    "Marta": 17,
+    "Landa": 11,
+    "Marco": 4,
+    "Sandra": 2,
+    "Didi": 1,
+    "Landa/Marco": 1
+  },
+  "stubs_inventory": [
+    {
+      "source_file": "ISC_20260721_194514_Piloto_Test_Circuito_Test.csv",
+      "schema_id": "schema_1",
+      "venue": "Cantoblanco",
+      "discipline": "Testing",
+      "driver": "Test/Sim",
+      "date": "2026-07-21"
+    },
+    {
+      "source_file": "ISC_20260804_131049_landa_brk_barcelona.csv",
+      "schema_id": "schema_4",
+      "venue": "Barcelona",
+      "discipline": "Brake Dyn",
+      "driver": "Landa",
+      "date": "2026-08-04"
+    },
+    {
+      "source_file": "ISC_20260805_191320_prueba_box.csv",
+      "schema_id": "schema_4",
+      "venue": "Barcelona",
+      "discipline": "Static/Bench",
+      "driver": "Unknown",
+      "date": "2026-08-05"
+    },
+    {
+      "source_file": "ISC_20260805_222202_LANDA_ACC1.csv",
+      "schema_id": "schema_4",
+      "venue": "Barcelona",
+      "discipline": "Acceleration",
+      "driver": "Landa",
+      "date": "2026-08-05"
+    },
+    {
+      "source_file": "ISC_20260805_222258_LANDA_ACC1.csv",
+      "schema_id": "schema_4",
+      "venue": "Barcelona",
+      "discipline": "Acceleration",
+      "driver": "Landa",
+      "date": "2026-08-05"
+    },
+    {
+      "source_file": "ISC_20260805_223643_landa_montmelo_acceleration_final_recta.csv",
+      "schema_id": "schema_4",
+      "venue": "Barcelona",
+      "discipline": "Acceleration",
+      "driver": "Landa",
+      "date": "2026-08-05"
+    },
+    {
+      "source_file": "ISC_20260805_224554_landa_montmelo_acceleration_final_recta.csv",
+      "schema_id": "schema_4",
+      "venue": "Barcelona",
+      "discipline": "Acceleration",
+      "driver": "Landa",
+      "date": "2026-08-05"
+    },
+    {
+      "source_file": "ISC_20260806_172425_marco_montmelo_autox.csv",
+      "schema_id": "schema_4",
+      "venue": "Barcelona",
+      "discipline": "Autocross",
+      "driver": "Marco",
+      "date": "2026-08-06"
+    },
+    {
+      "source_file": "ISC_20260806_172515_marco_montmelo_autox.csv",
+      "schema_id": "schema_4",
+      "venue": "Barcelona",
+      "discipline": "Autocross",
+      "driver": "Marco",
+      "date": "2026-08-06"
+    },
+    {
+      "source_file": "ISC_20260919_130619_Piloto_Test_Circuito_Test.csv",
+      "schema_id": "schema_4",
+      "venue": "Cantoblanco",
+      "discipline": "Testing",
+      "driver": "Test/Sim",
+      "date": "2026-09-19"
+    },
+    {
+      "source_file": "ISC_20260919_130640_Piloto_Test_Circuito_Test.csv",
+      "schema_id": "schema_4",
+      "venue": "Cantoblanco",
+      "discipline": "Testing",
+      "driver": "Test/Sim",
+      "date": "2026-09-19"
+    },
+    {
+      "source_file": "ISC_20260919_130839_Piloto_Test_Circuito_Test.csv",
+      "schema_id": "schema_4",
+      "venue": "Cantoblanco",
+      "discipline": "Testing",
+      "driver": "Test/Sim",
+      "date": "2026-09-19"
+    },
+    {
+      "source_file": "ISC_20260920_110327_Piloto_Test_Circuito_Test.csv",
+      "schema_id": "schema_4",
+      "venue": "Cantoblanco",
+      "discipline": "Testing",
+      "driver": "Test/Sim",
+      "date": "2026-09-20"
+    },
+    {
+      "source_file": "ISC_20260927_132523_marta_mobios.csv",
+      "schema_id": "schema_4",
+      "venue": "Cantoblanco",
+      "discipline": "Testing",
+      "driver": "Marta",
+      "date": "2026-09-27"
+    },
+    {
+      "source_file": "ISC_20260929_105127_Andres_Jarama_1.csv",
+      "schema_id": "schema_4",
+      "venue": "Jarama",
+      "discipline": "Testing",
+      "driver": "Andrés",
+      "date": "2026-09-29"
+    }
+  ],
+  "duplicate_pairs": [
+    {
+      "canonical_file": "ISC_20260721_174418_MARTA3_CANTO.csv",
+      "duplicate_file": "ISC_20260721_174418_MARTA3_CANTO (1).csv",
+      "sha256": "cec8d31405e3ba0eeabf62ba9efb12ebbf78dfcfde28392cf99a80757d599b50",
+      "row_count": 493
+    },
+    {
+      "canonical_file": "ISC_20260920_153953_Piloto_Test_Circuito_Test.csv",
+      "duplicate_file": "ISC_20260920_153953_Piloto_Test_Circuito_Test(1).csv",
+      "sha256": "fac2334e357fe7ff566f12fe6922d4fec0d6ef1d2f099238e83be62fca6eb484",
+      "row_count": 90
+    }
+  ],
+  "merged_sessions": [
+    {
+      "source_file": "ISC_20260730_MERGED_austria_endurance_2026_full.csv",
+      "session_id": "ISC_20260730_MERGED_austria_endurance_2026_full",
+      "schema_id": "schema_3",
+      "total_rows": 338,
+      "provenance_tags": {
+        "S1": 233,
+        "S2": 105
+      },
+      "description": "Concatenation of Austria Endurance Stints (S1, S2)"
+    },
+    {
+      "source_file": "ISC_20260805_224552_MERGED_landa_montmelo_acc_full.csv",
+      "session_id": "ISC_20260805_224552_MERGED_landa_montmelo_acc_full",
+      "schema_id": "schema_5",
+      "total_rows": 356,
+      "provenance_tags": {
+        "F1": 314,
+        "F2": 33,
+        "F2_PRIORITY": 9
+      },
+      "description": "Concatenation of Barcelona Montmeló Acceleration Stints (F1, F2, F2_PRIORITY)"
+    }
+  ]
+}
