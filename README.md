@@ -88,7 +88,7 @@ This repository processes and cross-correlates **100% of raw session data (118 C
 
 | Driver | Sessions | Total Distance | Peak Speed | Peak Lat G | Wh/km | Regen % | EV 2.3 Cutoffs | Style Assessment |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|---|
-| **Andrés Diéguez** | 20 | 68.2 km | 68.3 km/h | 1.52 g | 204.5 | 1.38% | 1 (Austria) | Aggressive cornering; trail-braking overlap induced EV 2.3 cutoff |
+| **Andrés** | 20 | 68.2 km | 68.3 km/h | 1.52 g | 204.5 | 1.38% | 1 (Austria) | Aggressive cornering; trail-braking overlap induced EV 2.3 cutoff |
 | **Marta** | 16 | 62.4 km | 78.4 km/h | 1.45 g | **184.2** | **1.85%** | 0 | Exceptionally smooth throttle modulation; lowest specific energy |
 | **Landa** | 7 | 38.1 km | **87.8 km/h** | 1.38 g | 225.1 | 1.10% | 0 | Sprint specialist; explosive launch acceleration in Barcelona |
 | **Marco** | 3 | 18.5 km | 61.2 km/h | 1.35 g | 192.4 | 1.25% | 0 | Measured testing cadence with steady thermal management |
